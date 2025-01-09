@@ -1,4 +1,4 @@
-# Car-Details-Dashboard---Power-BI
+# Car-Details-Dashboard-Power-BI
 This repository contains a comprehensive project showcasing a Car Details Dashboard developed using Power BI for data visualization and Python for data analysis. The dashboard provides insightful visualizations and analytical insights into various aspects of car data, including specifications, pricing, and performance metrics.
 
 # Tool used: Python and Power BI
