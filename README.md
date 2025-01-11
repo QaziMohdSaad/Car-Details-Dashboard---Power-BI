@@ -17,12 +17,12 @@ Visualized key metrics.
 Integrated slicers and filters for deeper data exploration.
 
 # Files Included:
-Python scripts for data cleaning and analysis.
+Dataset for Python cleaning and analysis.
 Power BI file (.pbix) containing the final dashboard.
 Documentation on how to reproduce the analysis and set up the Power BI dashboard.
 
 # How to Use:
-Clone the repository to your local machine.
+Download the dataset on your machine.
 Run the Python scripts to preprocess and analyze the data.
 Open the Power BI file to explore the interactive dashboard.
 
